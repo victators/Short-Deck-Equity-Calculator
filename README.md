@@ -1,0 +1,1 @@
+# Short-Deck-Equity-Calculator
